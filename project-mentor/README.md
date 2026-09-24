@@ -11,8 +11,12 @@ AI 做项目通常是「给定任务直接完成、中间过程略过」，这�
 2. 把部分重要操作/代码交给你亲手做（带骨架提示、停下等待、事后审阅）
 
 ## 安装
+方式一：一行命令（推荐，跨 runtime）
+打开你正在用的 agent（Claude Code、Codex、Cursor、OpenClaw、Hermes、CodeBuddy、Workbuddy、Gemini CLI、OpenCode 等），告诉它：
 
-把 `project-mentor/` 目录复制到：
+帮我安装这个 skill：https://github.com/kitfor11/project-mentor
+
+方式二：把 `project-mentor/` 目录复制到：
 
 - 用户级（所有项目可用）：`~/.claude/skills/project-mentor/`
 - 项目级（仅当前项目）：`<project>/.claude/skills/project-mentor/`

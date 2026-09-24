@@ -14,7 +14,7 @@ AI 做项目通常是「给定任务直接完成、中间过程略过」，这�
 方式一：一行命令（推荐，跨 runtime）
 打开你正在用的 agent（Claude Code、Codex、Cursor、OpenClaw、Hermes、CodeBuddy、Workbuddy、Gemini CLI、OpenCode 等），告诉它：
 
-帮我安装这个 skill：https://github.com/kitfor11/project-mentor
+帮我安装这个 skill：`https://github.com/kitfor11/project-mentor`
 
 方式二：把 `project-mentor/` 目录复制到：
 

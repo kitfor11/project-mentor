@@ -44,7 +44,8 @@ project-mentor/
     ├── important-points.md     # 内置关键字段目录，可扩充
     ├── user-tech-stack.md      # 用户自定义技术栈，可编辑
     ├── config.md               # 教学强度默认档
-    └── scan-project.md         # 场景 A（已有项目）扫描讲解清单
+    ├── scan-project.md         # 场景 A（已有项目）扫描讲解清单
+    └── build-from-scratch.md   # 场景 B（从零构建）讲解清单
 ```
 
 ## 自定义
